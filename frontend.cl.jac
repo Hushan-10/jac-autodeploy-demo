@@ -327,7 +327,7 @@ cl def:pub app() -> JsxElement {
     }
 
     if not hasPrompt {
-        return <div className="flex min-h-screen w-full items-center justify-center bg-background pt-8 pb-8 pl-8 pr-8 text-foreground">
+        return <div className="flex min-h-screen w-full items-center justify-center bg-green-600 pt-8 pb-8 pl-8 pr-8 text-white">
             <div className="flex max-w-2xl flex-col items-center gap-6 text-center">
                 <div className="select-none text-7xl" role="img" aria-label="sparkles">
                     {"✨"}
@@ -339,7 +339,7 @@ cl def:pub app() -> JsxElement {
         </div>;
     }
 
-    return <div className="flex min-h-screen w-full flex-col gap-6 bg-background pt-8 pb-8 pl-6 pr-6 text-foreground sm:pl-8 sm:pr-8">
+    return <div className="flex min-h-screen w-full flex-col gap-6 bg-green-600 pt-8 pb-8 pl-6 pr-6 text-white sm:pl-8 sm:pr-8">
         <div className="flex w-full flex-col gap-4">
             <div className="flex items-center gap-2.5">
                 <span className="inline-block size-2 animate-pulse rounded-full bg-primary" />

@@ -88,3 +88,7 @@ og_site_name = "Blank canvas"
 
 [scale.microservices]
 enabled = false
+
+[jacpack]
+name = 'jac-autodeploy-demo-3'
+description = 'Jac IDE snapshot for jac-autodeploy-demo-3'

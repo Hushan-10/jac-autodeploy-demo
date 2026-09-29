@@ -333,7 +333,7 @@ cl def:pub app() -> JsxElement {
                     {"✨"}
                 </div>
                 <p className="text-2xl font-medium leading-snug text-foreground sm:text-3xl">
-                    {"When you start to build, changes will appear here."}
+                    {"Auto-deploy test 1 ✅"}
                 </p>
             </div>
         </div>;

@@ -333,7 +333,7 @@ cl def:pub app() -> JsxElement {
                     {"✨"}
                 </div>
                 <p className="text-2xl font-medium leading-snug text-foreground sm:text-3xl">
-                    {"NOT RELEASED"}
+                    {"Pushed check after the relase feature"}
                 </p>
             </div>
         </div>;
